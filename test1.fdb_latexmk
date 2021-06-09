@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1623245716 "c:/Users/heito/Documents/GitHub/vscode-latex/test1.tex" "test1.pdf" "test1" 1623245717
+["pdflatex"] 1623246606 "c:/Users/heito/Documents/GitHub/vscode-latex/test1.tex" "test1.pdf" "test1" 1623246607
   "C:/Users/heito/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1623245464 11548 89f8675b95b6b84e99cd6e295f9af7f8 ""
   "C:/Users/heito/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1623200020 9742850 ef16dbd173da9b14e3b3288869f277ca ""
   "C:/Users/heito/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1623199946 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
@@ -25,10 +25,10 @@
   "C:/Users/heito/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1622623408 5049 969aec05d5f39c43f8005910498fcf90 ""
   "C:/Users/heito/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1622623408 8448 05e1c6a8fc5db344ed9d7aeb299acbce ""
   "C:/Users/heito/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1620382912 27177 c0f5f128013bde6670e188c4af243210 ""
-  "c:/Users/heito/Documents/GitHub/vscode-latex/test1.tex" 1623245715 582 2fccb002f35e943fd5caaedbdf56d2c6 ""
-  "test1.aux" 1623245717 132 becad25d16353fbd81e5644d2e8bca32 "pdflatex"
-  "test1.tex" 1623245715 582 2fccb002f35e943fd5caaedbdf56d2c6 ""
+  "c:/Users/heito/Documents/GitHub/vscode-latex/test1.tex" 1623246605 583 b02e78da7ef25fbc4033af86e6e9709b ""
+  "test1.aux" 1623246606 132 becad25d16353fbd81e5644d2e8bca32 "pdflatex"
+  "test1.tex" 1623246605 583 b02e78da7ef25fbc4033af86e6e9709b ""
   (generated)
+  "test1.log"
   "test1.pdf"
   "test1.aux"
-  "test1.log"
